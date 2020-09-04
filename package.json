@@ -48,7 +48,7 @@
     "listr": "0.14.1",
     "lodash": "4.17.10",
     "meow": "5.0.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "node-sass-tilde-importer": "1.0.2",
     "read-pkg": "3.0.0",
     "rollup": "0.58.2",
